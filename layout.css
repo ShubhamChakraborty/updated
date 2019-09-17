@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 Sep, 2019, 9:22:41 PM
+    Author     : 91891
+*/
+
+body
+{
+    margin: 30px;
+    background-image: url("15002.jpg");
+    background-repeat: no-repeat, repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+#name
+{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-style: italic;
+    font-stretch: expanded;
+    font-size: xx-large;
+}
